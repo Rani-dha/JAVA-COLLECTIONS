@@ -1,6 +1,3 @@
-public class theNewLine {
-    
-}
 class Geeks{
     
     // Function to print each word in single line
