@@ -25,7 +25,8 @@ class Geeks{
             // In this case, it will start reading just after the input of d. So the next line after d is just a new line, which is represented by ‘\n’ character. 
             // Hence the output you get for s is just ‘\n’.
             // So, to resolve this issue, you can first consume the leftover new line using the nextLine() method. And then take input for string s. 
-		    String s = sc.nextLine(); 
+		    
+			String s = sc.nextLine(); 
 		    System.out.println(s);
 		}
 		
