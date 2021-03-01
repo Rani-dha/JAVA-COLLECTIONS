@@ -1,3 +1,5 @@
+// Problem : https://practice.geeksforgeeks.org/problems/taking-input-java/0/ 
+
 class Geeks{
     
     // Function to take input using Scanner class
