@@ -8,3 +8,4 @@
 5. [Data Types](https://github.com/Rani-dha/JAVA-COLLECTIONS-/tree/master/java%20basics/5%20Data%20Types)
 6. [Precise Format](https://github.com/Rani-dha/JAVA-COLLECTIONS-/tree/master/java%20basics/6%20Precise%20Format)
 7. [Count Odd Even](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/7%20Count%20Odd%20Even)
+8. [Count the specials](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/8%20Count%20the%20Specials)
