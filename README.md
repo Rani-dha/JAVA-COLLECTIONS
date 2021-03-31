@@ -11,3 +11,4 @@
 8. [Count the specials](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/8%20Count%20the%20Specials)
 9. [Matrix Interchange](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/9%20Matrix%20interchange)
 10. [Predict the column](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/10%20Predict%20the%20column)
+11. [The Pattern Matcher](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/11%20The%20Pattern%20Matcher)
