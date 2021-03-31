@@ -14,3 +14,4 @@
 11. [The Pattern Matcher](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/11%20The%20Pattern%20Matcher)
 12. [Almost Equal](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/12%20Almost%20Equal)
 13. [Consonants ans Vowels](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/13%20Consonants%20and%20Vowel%20Check)
+14. [Pair in Java](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/14%20Pair%20in%20java)
