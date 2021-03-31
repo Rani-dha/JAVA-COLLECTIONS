@@ -16,3 +16,4 @@
 13. [Consonants ans Vowels](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/13%20Consonants%20and%20Vowel%20Check)
 14. [Pair in Java](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/14%20Pair%20in%20java)
 15. [Maximum Area Rectangle](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/15%20Maximum%20Area%20Rectangle)
+16. [Logical Operators](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/16%20Logical%20operator)
