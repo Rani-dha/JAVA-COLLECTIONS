@@ -37,11 +37,27 @@ public static String concatenateStrings(ArrayList<String>arr)
 {
     //Your code here
     String res = "";
-    Iterator i= arr.iterator();
+    Iterator i= arr.iterator(); // Using Iterator to concatenate
     while(i.hasNext())
-       res += i.next();
-       
-    return res;   
+       res += i.next();       
+    return res;  
+    
+    /**
+     * using ForEach
+     *    
+      
+       //Initializing an empty String
+	    String ans="";
+	    
+	    //concatenating all the String
+	    //of the ArrayList with the ans String
+	    for(String s:arr)
+	    ans+=s;
+	    
+	    //returning the concatenated Strings
+	    return ans;
+
+     */
     
 }
 
