@@ -23,5 +23,6 @@
 2. [Are Strings Equal](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/2%20Are%20Strings%20Equal)
 3. [Length of String]()
 4. [Vowels in string]()
+5. [Count distinct vowels in string]()
 
 
