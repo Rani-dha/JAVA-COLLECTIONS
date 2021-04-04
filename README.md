@@ -25,6 +25,7 @@
 4. [Vowels in String]()
 5. [Count distinct vowels in string]()
 6. [Consonants and Vowels check]()
-7. [Lowercase to Upercase]()
+7. [Lowercase to Uppercase]()
+8. [Uppercase to Lowercase]()
 
 
