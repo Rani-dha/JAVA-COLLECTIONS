@@ -24,5 +24,6 @@
 3. [Length of String]()
 4. [Vowels in String]()
 5. [Count distinct vowels in string]()
+6. [Consonants and Vowels check]()
 
 
