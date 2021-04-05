@@ -17,3 +17,15 @@
 14. [Pair in Java](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/14%20Pair%20in%20java)
 15. [Maximum Area Rectangle](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/15%20Maximum%20Area%20Rectangle)
 16. [Logical Operators](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/16%20Logical%20operator)
+
+### Strings
+1. [String concatenation](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/1%20String%20concatenation)
+2. [Are Strings Equal](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/2%20Are%20Strings%20Equal)
+3. [Length of String]()
+4. [Vowels in String]()
+5. [Count distinct vowels in string]()
+6. [Consonants and Vowels check]()
+7. [Lowercase to Uppercase]()
+8. [Uppercase to Lowercase]()
+
+
