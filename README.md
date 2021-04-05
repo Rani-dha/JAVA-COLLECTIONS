@@ -23,7 +23,7 @@
 2. [Are Strings Equal](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/2%20Are%20Strings%20Equal)
 3. [Length of String](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/3%20Length%20of%20String)
 4. [Vowels in String](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/4%20Vowels%20in%20a%20string)
-5. [Count distinct vowels in string]()
+5. [Count distinct vowels in string](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/5%20Count%20distinct%20vowels%20in%20a%20string)
 6. [Consonants and Vowels check]()
 7. [Lowercase to Uppercase]()
 8. [Uppercase to Lowercase]()
