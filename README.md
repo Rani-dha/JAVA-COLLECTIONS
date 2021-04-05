@@ -21,7 +21,7 @@
 ### Strings
 1. [String concatenation](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/1%20String%20concatenation)
 2. [Are Strings Equal](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/2%20Are%20Strings%20Equal)
-3. [Length of String]()
+3. [Length of String](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/3%20Length%20of%20String)
 4. [Vowels in String]()
 5. [Count distinct vowels in string]()
 6. [Consonants and Vowels check]()
