@@ -27,6 +27,6 @@
 6. [Consonants and Vowels check](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/6%20Consonants%20and%20vowel%20check)
 7. [Lowercase to Uppercase](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/7%20Lowercase%20to%20uppercase)
 8. [Uppercase to Lowercase](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/8%20Uppercase%20to%20Lowercase)
-9. [Check if Strings are rotations of each other or not]()
+9. [Check if Strings are rotations of each other or not](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/9%20Strings%20rotations%20check)
 
 
