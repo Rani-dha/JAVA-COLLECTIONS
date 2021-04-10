@@ -1,4 +1,4 @@
-// Program 9:
+// Program 9: https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/0/?track=Java-Collections-String&batchId=318
 
 class Solution{
     
