@@ -1,4 +1,4 @@
-// Program 6:
+// Program 6: https://practice.geeksforgeeks.org/problems/consonants-and-vowels-check-java/0/?track=Java-Collections-String&batchId=318
 
 class Geeks{
     
