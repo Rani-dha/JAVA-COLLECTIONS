@@ -1,4 +1,4 @@
-// Program 7:
+// Program 7: https://practice.geeksforgeeks.org/problems/lowercase-to-upercase/0/?track=Java-Collections-String&batchId=318
 
 class Solution
 {
