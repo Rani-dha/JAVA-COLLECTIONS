@@ -25,7 +25,7 @@
 4. [Vowels in String](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/4%20Vowels%20in%20a%20string)
 5. [Count distinct vowels in string](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/5%20Count%20distinct%20vowels%20in%20a%20string)
 6. [Consonants and Vowels check](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/6%20Consonants%20and%20vowel%20check)
-7. [Lowercase to Uppercase]()
+7. [Lowercase to Uppercase](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings/7%20Lowercase%20to%20uppercase)
 8. [Uppercase to Lowercase]()
 
 
