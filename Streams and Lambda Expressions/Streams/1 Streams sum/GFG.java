@@ -43,9 +43,9 @@ class GFG {
 public static int sumUsingStreams(int []arr)
 {
     //Your code here
-    //use stream.sum()
+    //using stream.sum()
     return Arrays.stream( arr)
-                    .sum();  
+                 .sum();  
     
 }
 

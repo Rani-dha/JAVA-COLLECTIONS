@@ -45,7 +45,7 @@ class GFG {
 public static int maxUsingStreams(int []arr)
 {
     //Your code here
-    //Use stream().max().getAsInt()
+    //Using stream().max().getAsInt()
     return Arrays.stream(arr)
                  .max()
                  .getAsInt();
