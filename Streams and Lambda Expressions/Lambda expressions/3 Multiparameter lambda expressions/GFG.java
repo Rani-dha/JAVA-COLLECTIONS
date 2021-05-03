@@ -1,5 +1,5 @@
-//
-//
+// Multiparameter lambda expressions
+// https://practice.geeksforgeeks.org/problems/multi-parameters-lambda-expression/1/?track=Java-Collections-Java-Lambda-Expressions&batchId=318#
 
 //Initial Template for Java
 
