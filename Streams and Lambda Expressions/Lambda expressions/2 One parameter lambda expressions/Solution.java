@@ -1,5 +1,5 @@
-//
-//
+//  One parameter lambda expressions
+//  https://practice.geeksforgeeks.org/problems/one-parameter-lambda-expression/1/?track=Java-Collections-Java-Lambda-Expressions&batchId=318#
 
 //Initial Template for Java
 
