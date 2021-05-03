@@ -1,4 +1,4 @@
-// Java Streams SUM
+// Java Streams sum() method
 // https://practice.geeksforgeeks.org/problems/java-streams-sum/1/?track=Java-Collections-Java-Streams&batchId=318#
 
 //Initial Template for Java

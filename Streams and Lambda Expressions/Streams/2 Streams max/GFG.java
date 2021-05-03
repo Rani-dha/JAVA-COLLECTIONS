@@ -1,4 +1,4 @@
-// Java streams MAX()
+// Java streams max() method
 // https://practice.geeksforgeeks.org/problems/java-streams-max/1/?track=Java-Collections-Java-Streams&batchId=318#
 
 
