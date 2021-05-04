@@ -104,3 +104,34 @@ public static void print_ArrayList(ArrayList<Integer> A)
 // { Driver Code Starts.
 
 }  // } Driver Code Ends
+
+
+/* In this question we will be implementing various operations on ArrayList. There will be different type of queries.
+A query can be of five types:
+1. a x (Adds an element x to the ArrayList A at the end)
+2. b (Sorts the ArrayList A in ascending order)
+3. c (Reverses the ArrayList A)
+4. d (prints the size of the ArrayList)
+5. e (prints space separated values of the ArrayList)
+5. f (Sorts the ArrayList A in descending order)
+
+Example 1:
+
+Input:
+6
+a 4 a 6 a 7 b c e
+
+Output:
+7 6 4
+
+Explanation :
+There are six queries.
+Queries are performed in this order
+1. a 4 {ArrayList has 4}
+2. a 7 {ArrayList has 4,7}
+3. a 6 {ArrayList has 4,7,6}
+4. b {sorts the ArrayList in ascending order,
+      ArrayList now is 4 6 7}
+5. c {reverse the ArrayList to 7 6 4}
+6. e {prints the elements of ArrayList i.e. 7 6 4}
+Example 2: */
