@@ -18,4 +18,4 @@
 15. [Maximum Area Rectangle](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/15%20Maximum%20Area%20Rectangle)
 16. [Logical Operators](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/java%20basics/16%20Logical%20operator)
 
-### Strings
+### [Strings](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings)
