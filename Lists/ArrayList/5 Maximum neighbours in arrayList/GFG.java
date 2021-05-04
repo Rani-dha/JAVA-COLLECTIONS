@@ -50,23 +50,15 @@ class GFG {
 public static ArrayList<Integer> maxNeighbour(ArrayList<Integer>arr)
 {
     //Your code here
-   // Iterator it = arr.Iterator();
-    //int a = (Integer)it.next();
-    // while( it.hasNext()){
-    //     int b = (Integer) it.next();
-    //     if ( a < b)
-    //       it.remove();
-    //     a = b;  
-    // }
     ArrayList<Integer> al = new ArrayList<Integer>();
-    int a = arr.get(0);
+    int a = arr.get(0); // Initial  previous item
     for(int i=1; i<arr.size(); i++){
-        int b = arr.get(i);
-        if( a <= b)
+        int b = arr.get(i); // To get the current item
+        if( a <= b) // Comparing the previous and current item, greater item is added to the arraylist.
            al.add(arr.get(i));
         else if( a>b)
             al.add(a);
-        a = b;  
+        a = b;  // To store the previous item
     }
    // if()
     return al;
@@ -79,3 +71,21 @@ public static ArrayList<Integer> maxNeighbour(ArrayList<Integer>arr)
 
 }
   // } Driver Code Ends
+
+  /* Given an ArrayList arr of N positive integers. The task is to find the maximum for every adjacent pairs in the ArrayList.
+
+Example 1:
+
+Input:
+6
+1 2 2 3 4 5
+
+Output:
+2 2 3 4 5
+
+Explanation:
+Maximum of arr[0] and arr[1] is 2, that of arr[1] and arr[2] 
+is 2, ... and so on. For last two elements, maximum is 5.
+
+
+*/
