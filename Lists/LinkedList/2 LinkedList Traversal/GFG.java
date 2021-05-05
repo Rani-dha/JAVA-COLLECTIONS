@@ -1,5 +1,5 @@
 // Program 2 : LinkedList Traversal 
-//
+// https://practice.geeksforgeeks.org/problems/linkedlist-traversal/1/?track=Java-Collections-LinkedList&batchId=318#
 
 //Initial Template for Java
 
