@@ -1,3 +1,5 @@
+// Program 1: LinkedList Insertion
+// https://practice.geeksforgeeks.org/problems/linkedlist-insertion/1/?track=Java-Collections-LinkedList&batchId=318
 
 
 /*package whatever //do not write package name here */
