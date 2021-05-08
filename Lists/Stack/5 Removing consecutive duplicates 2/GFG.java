@@ -1,5 +1,5 @@
-//
-//
+// Program 5: Removing consecutive duplicates 2
+// https://practice.geeksforgeeks.org/problems/removing-consecutive-duplicates-2-1587115621/1/?track=Java-Collections-Stack&batchId=318#
 
 import java.util.*;
 import java.lang.*;
