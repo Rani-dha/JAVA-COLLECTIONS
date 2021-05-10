@@ -3,4 +3,5 @@
 2. Removing consecutive characters
 3. Removing consecutive duplicates 2
 6. Parenthesis checker
+7. Shopkeeper profit (NextGreater element)
 
