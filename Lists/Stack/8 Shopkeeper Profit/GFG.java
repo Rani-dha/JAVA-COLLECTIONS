@@ -1,5 +1,5 @@
-//
-//
+// Program 8 : ShopKeeper profit ( Next Greater element )
+// https://practice.geeksforgeeks.org/problems/shopkeeper-profit/1/?track=Java-Collections-Stack&batchId=318#
 
 //Initial Template for Java
 
