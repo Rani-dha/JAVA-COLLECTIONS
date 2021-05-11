@@ -5,3 +5,5 @@
 ### 2.[Strings](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Strings)
 
 ### 3.[Lists](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Lists)
+
+### 4. [Streams and Lambda expressions]()
