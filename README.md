@@ -6,4 +6,4 @@
 
 ### 3.[Lists](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Lists)
 
-### 4. [Streams and Lambda expressions]()
+### 4. [Streams and Lambda expressions](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Streams%20and%20Lambda%20Expressions)
