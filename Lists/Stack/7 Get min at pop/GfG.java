@@ -67,7 +67,7 @@ class GetMin
           System.out.print( s.pop() + " ");
           //ms.pop();  
           
-          System.out.println();
+          System.out.println(); // To avoid collisions with multiple test cases.
         
     }
 }
