@@ -9,3 +9,6 @@
 ### 4.[Lists](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Lists)
 
 ### 5. [Queue](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Queue)
+
+### 6. [Hashing]()
+### 7. [Set]()
