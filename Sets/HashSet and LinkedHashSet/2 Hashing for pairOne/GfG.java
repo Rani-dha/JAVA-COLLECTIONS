@@ -68,3 +68,30 @@ class Geeks
 
 
   // } Driver Code Ends
+
+
+//   Example 1:
+
+// Input:
+// N = 10
+// arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} 
+// sum = 14
+// Output: 
+// 1
+
+// Explanation: 
+// arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} 
+// and sum = 14.  There is a pair {4, 10} 
+// with sum 14.
+// Example 2:
+
+// Input:
+// N = 2
+// arr[] = {2, 5}
+// sum = 10
+// Output:
+// 0
+
+// Explanation: 
+// arr[]  = {2, 5} and sum = 10. 
+// There is no pair with sum 10.
