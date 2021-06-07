@@ -10,5 +10,5 @@
 
 ### 5. [Queue](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Queue)
 
-### 6. [Hashing]()
+### 6. [Map](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Map/)
 ### 7. [Set](https://github.com/Rani-dha/JAVA-COLLECTIONS/tree/master/Sets)
