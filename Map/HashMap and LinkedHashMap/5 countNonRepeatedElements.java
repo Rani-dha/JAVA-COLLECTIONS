@@ -61,3 +61,11 @@ class Solution
         return result;
     }
 }
+
+// Input:
+// 10
+// 1 1 2 2 3 3 4 5 6 7
+
+// Output: 
+// 4
+
